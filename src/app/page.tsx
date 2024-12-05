@@ -11,7 +11,6 @@ export default function Home() {
           <span className="text-[#149eca]">Tauri</span> +{" "}
           <span className="text-[#ff6f61]">Next</span> +{" "}
           <span className="text-[#d1a74d]">Shadcn</span>
-          <div></div>
         </h1>
       </div>
     </main>
