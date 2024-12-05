@@ -16,9 +16,9 @@ const navigation: Navigation[] = [
     href: "/",
   },
   {
-    key: "code",
-    href: "/code",
-    tooltip: "Open Github Repo",
+    key: "repo",
+    href: "https://github.com/VicBrnd/boilerplate-tauri-next-shadcn",
+    tooltip: "Github Repo",
   },
   {
     key: "git clone",
