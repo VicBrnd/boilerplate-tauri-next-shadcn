@@ -22,7 +22,7 @@ const navigation: Navigation[] = [
   },
   {
     key: "git clone",
-    gitUrl: "https://github.com/votre-repo/votre-projet.git",
+    gitUrl: "https://github.com/VicBrnd/boilerplate-tauri-next-shadcn.git",
     tooltip: "Copy Git Url",
   },
   {
@@ -32,12 +32,12 @@ const navigation: Navigation[] = [
   },
   {
     key: "next",
-    href: "https://tauri.app/",
+    href: "https://nextjs.org/",
     tooltip: "Next Web",
   },
   {
     key: "shadcn",
-    href: "https://tauri.app/",
+    href: "https://ui.shadcn.com/",
     tooltip: "Shadcn Web",
   },
 ];
